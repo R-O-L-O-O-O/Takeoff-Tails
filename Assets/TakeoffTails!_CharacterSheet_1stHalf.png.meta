@@ -1,0 +1,1906 @@
+fileFormatVersion: 2
+guid: 7b1521e44ed2ff545bb8cca95923de6e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 977
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddd6b23fd5db4c48a528473163b19fb
+      internalID: -67480598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 977
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887f0de0d10a4254fbadf8a51a4541c5
+      internalID: -1725826473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 977
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a321a8184e50cda419edacc67c89b16f
+      internalID: -639833340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 977
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93af69c69b25664dbb16fb716c7bda6
+      internalID: -3666201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 977
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b149a995479c2754c94b1d06d8112072
+      internalID: 1734425370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 977
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31db6cb4151ed43bcce5b4df8295c2
+      internalID: 1614502217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 977
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47755ba802d3c46b754b20bfba3c88
+      internalID: 409052851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 977
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46708cd6dfc63644978926132043768
+      internalID: 1458049342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 977
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bca2f2936566a4d8dbf887d7e9a5ce
+      internalID: -1831674223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_9
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 977
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b72f33214b47e4781dd6455aa75c68
+      internalID: -154437321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 977
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9114696823c99534ca9cb44685bff913
+      internalID: -761394525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 977
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3314d3f599b1ff43890f34fb906eef8
+      internalID: -1460353387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 978
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a005b048d025447aa7d34934864e2c
+      internalID: 2101416003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 977
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de908de976d14428890b465b939825
+      internalID: -2001777274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_14
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 978
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da977c6a8e6824db551b8cc7b9ed2d
+      internalID: 429854993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_15
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 978
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe396985a56bc7346a88b1c3409cec91
+      internalID: 1684426019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 919
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc33c4683b83b6449a235c90ae4bc00
+      internalID: 1105409571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 919
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d60dafa75dec49b148c1159845dec
+      internalID: 1636886586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 919
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15901c31e173db04c8044c213e6910d3
+      internalID: 2106766284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 919
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df3334a06eaa44ca6b0bd4c6d5338a
+      internalID: -493018609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 919
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10faaf870f7dc4b840885fd000e520
+      internalID: -55545988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 919
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e7b42d81d3104eba0208dbb3b9410
+      internalID: 626830352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 919
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e052d973cc8084c9f824b7ac4e2635
+      internalID: 1183505953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 919
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80141b5ddd9544a8e6626ecf2ba006
+      internalID: -1053113996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_24
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 674
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61c5b70b9e32c4682325da3e3b1488
+      internalID: 1835614419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 672
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b025b4ffea28d14daae755d0a3fb4e3
+      internalID: -929148411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 672
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dacda2073a09424e884b45a53aa1db7
+      internalID: -1753618114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 672
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53cdab46924bb44facd99728b689cca
+      internalID: 184194279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_28
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 671
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f18fdfc0d8452f4c9b435adcfa21840
+      internalID: 634798209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_29
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 669
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20283b99ab6822a44ab86fdb1e8f653c
+      internalID: -737181611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 669
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a285a23c57f248bb61d9c1ab485b4
+      internalID: -1283635107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37476f1b21dc6c14b82f329566c492e3
+      internalID: -917659036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 727
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638fa37feefd2104e9f4009bada5b5f7
+      internalID: 1106421228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e238004d8df0a854f89c4fb59e80ee11
+      internalID: 1694078476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 727
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0dd09e49281a45a19bcc61fe03e34
+      internalID: 365810347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b0ca22e962344a82fb2c7d68d4e2c
+      internalID: -62110148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 727
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abd73f2f58cb241aa37cecd7164c1c
+      internalID: 717387737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66787585299c85842bedbb854cfa3a47
+      internalID: 187197154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 727
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c23bb7ed3ee0847957c4515d7d0542
+      internalID: -38411251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_39
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe7d30a4388f2440928693a5dd6c0c5
+      internalID: 233072001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 727
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca91a71e4586d4ab070280bbb972c8
+      internalID: 171809573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_41
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e10df2e974ca42944ec9d468c0ee0
+      internalID: -286391288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_42
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 727
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f33443129d918c48acc7236ed08505e
+      internalID: 803467726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0459fb3620ac68347b32e0074aed989f
+      internalID: 1724550189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 727
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdcdd49053a05a4fba95208c992cfbe
+      internalID: 239025493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_45
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 727
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111280b053bf9e47aca9133abf86a4e
+      internalID: -416308829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_46
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 727
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e5d3b89e692a24895508a4889dbd62
+      internalID: 836120665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 977
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687fcf0b001ba042992b39036db5ac0
+      internalID: -851793645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 977
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ec4de4bcaa5c04b983c94a081b72b3
+      internalID: -1645924287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 977
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec885368176c52a49902c324e09a1012
+      internalID: -1827899308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_50
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 977
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1c1d338b3f4e64f851780f958c220d
+      internalID: -578189013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 977
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a8b5b7718e9944a72b3e112d2bc65
+      internalID: -1368172856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 977
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37bd7177b611da4b8fe5b9897c5f230
+      internalID: -1517372480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_53
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 359
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c7da4b14d489349807f8ac38f6a72c
+      internalID: 1818254984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 359
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50b3866b3c824543a7c51137ff7b236
+      internalID: -1194799976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 359
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f29ff9c6946b4296af02014f02cdd
+      internalID: -1841347015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 359
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e83e58c739d6141916a869ac17a96e
+      internalID: 1534105504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 359
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d1a36892307b479d969c16b963954
+      internalID: 1473081197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_58
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 359
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135b85298f82fa45bb70a8c53697015
+      internalID: -2038948923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_59
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 359
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124d5a1685f49044b7b37582bc9bf20
+      internalID: 1904816534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_60
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 359
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506dadc6c1a828e4d936ca49281747b9
+      internalID: -2146371498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_61
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 359
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f50976866efc647890cdd58d086da4
+      internalID: -1523288334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_62
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 359
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae551e5eddcce3a4ba8a1829e7812b79
+      internalID: 1609564486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_63
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 359
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aedd2a81216f2d43b256e09fd8ab11c
+      internalID: 234019444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_64
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 359
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0344959352f24b9052cfb4ea28430
+      internalID: 1517104300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_65
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 359
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97359c41db9088c4fbb226889d1b4e8b
+      internalID: -445946494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_66
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 359
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73c3f310741bf458e4a0204b2309c1
+      internalID: -523931670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_67
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 359
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b01deb003c216242acf0bbede35ca9f
+      internalID: 735551977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_68
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 359
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340d33adeda531947832944d691d4035
+      internalID: 52505068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1103
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69db365b093214dbf20ef18c612959
+      internalID: -1885151420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1103
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459def7f1bc06714cb1f7ef1ff01901e
+      internalID: 111027862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1103
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca693604db4af941b6e16aff9abc129
+      internalID: -876350340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1103
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2072c6dd0b03b6e4ab12e9b95c8f3aab
+      internalID: 738765309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1103
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c514f89513e99148a4b89d2c4a8546e
+      internalID: -443274653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1103
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aea6a7692f2084a9cb8d682d755566
+      internalID: 564089040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1103
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5d70b83c165fb419a6daceb454ec1a
+      internalID: 1533583163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1103
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d76ba0151742149b881b9648f37e5f
+      internalID: 1439356748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_77
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1103
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aeca316fb893841845b3ba4b17ce34
+      internalID: -291365895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_78
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1103
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce84a5fda25e504f913fb2bb846b33c
+      internalID: 1996864973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_79
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1105
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad915668dbf40840abbc2acc2ebe009
+      internalID: 1689488665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeoffTails!_CharacterSheet_1stHalf_80
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1103
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b201b8297c86e704595f8bf6cdc69938
+      internalID: -149280667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TakeoffTails!_CharacterSheet_1stHalf_49: -1827899308
+      TakeoffTails!_CharacterSheet_1stHalf_39: 233072001
+      TakeoffTails!_CharacterSheet_1stHalf_38: -38411251
+      TakeoffTails!_CharacterSheet_1stHalf_13: -2001777274
+      TakeoffTails!_CharacterSheet_1stHalf_34: 365810347
+      TakeoffTails!_CharacterSheet_1stHalf_75: 1533583163
+      TakeoffTails!_CharacterSheet_1stHalf_77: -291365895
+      TakeoffTails!_CharacterSheet_1stHalf_33: 1694078476
+      TakeoffTails!_CharacterSheet_1stHalf_43: 1724550189
+      TakeoffTails!_CharacterSheet_1stHalf_22: 1183505953
+      TakeoffTails!_CharacterSheet_1stHalf_48: -1645924287
+      TakeoffTails!_CharacterSheet_1stHalf_66: -523931670
+      TakeoffTails!_CharacterSheet_1stHalf_47: -851793645
+      TakeoffTails!_CharacterSheet_1stHalf_58: -2038948923
+      TakeoffTails!_CharacterSheet_1stHalf_6: 409052851
+      TakeoffTails!_CharacterSheet_1stHalf_2: -639833340
+      TakeoffTails!_CharacterSheet_1stHalf_78: 1996864973
+      TakeoffTails!_CharacterSheet_1stHalf_41: -286391288
+      TakeoffTails!_CharacterSheet_1stHalf_62: 1609564486
+      TakeoffTails!_CharacterSheet_1stHalf_46: 836120665
+      TakeoffTails!_CharacterSheet_1stHalf_79: 1689488665
+      TakeoffTails!_CharacterSheet_1stHalf_16: 1105409571
+      TakeoffTails!_CharacterSheet_1stHalf_10: -761394525
+      TakeoffTails!_CharacterSheet_1stHalf_20: -55545988
+      TakeoffTails!_CharacterSheet_1stHalf_27: 184194279
+      TakeoffTails!_CharacterSheet_1stHalf_19: -493018609
+      TakeoffTails!_CharacterSheet_1stHalf_60: -2146371498
+      TakeoffTails!_CharacterSheet_1stHalf_73: -443274653
+      TakeoffTails!_CharacterSheet_1stHalf_5: 1614502217
+      TakeoffTails!_CharacterSheet_1stHalf_14: 429854993
+      TakeoffTails!_CharacterSheet_1stHalf_37: 187197154
+      TakeoffTails!_CharacterSheet_1stHalf_52: -1517372480
+      TakeoffTails!_CharacterSheet_1stHalf_24: 1835614419
+      TakeoffTails!_CharacterSheet_1stHalf_61: -1523288334
+      TakeoffTails!_CharacterSheet_1stHalf_71: -876350340
+      TakeoffTails!_CharacterSheet_1stHalf_25: -929148411
+      TakeoffTails!_CharacterSheet_1stHalf_8: -1831674223
+      TakeoffTails!_CharacterSheet_1stHalf_45: -416308829
+      TakeoffTails!_CharacterSheet_1stHalf_18: 2106766284
+      TakeoffTails!_CharacterSheet_1stHalf_57: 1473081197
+      TakeoffTails!_CharacterSheet_1stHalf_63: 234019444
+      TakeoffTails!_CharacterSheet_1stHalf_17: 1636886586
+      TakeoffTails!_CharacterSheet_1stHalf_56: 1534105504
+      TakeoffTails!_CharacterSheet_1stHalf_7: 1458049342
+      TakeoffTails!_CharacterSheet_1stHalf_15: 1684426019
+      TakeoffTails!_CharacterSheet_1stHalf_69: -1885151420
+      TakeoffTails!_CharacterSheet_1stHalf_72: 738765309
+      TakeoffTails!_CharacterSheet_1stHalf_28: 634798209
+      TakeoffTails!_CharacterSheet_1stHalf_44: 239025493
+      TakeoffTails!_CharacterSheet_1stHalf_26: -1753618114
+      TakeoffTails!_CharacterSheet_1stHalf_29: -737181611
+      TakeoffTails!_CharacterSheet_1stHalf_64: 1517104300
+      TakeoffTails!_CharacterSheet_1stHalf_23: -1053113996
+      TakeoffTails!_CharacterSheet_1stHalf_36: 717387737
+      TakeoffTails!_CharacterSheet_1stHalf_12: 2101416003
+      TakeoffTails!_CharacterSheet_1stHalf_0: -67480598
+      TakeoffTails!_CharacterSheet_1stHalf_80: -149280667
+      TakeoffTails!_CharacterSheet_1stHalf_53: 1818254984
+      TakeoffTails!_CharacterSheet_1stHalf_30: -1283635107
+      TakeoffTails!_CharacterSheet_1stHalf_40: 171809573
+      TakeoffTails!_CharacterSheet_1stHalf_3: -3666201
+      TakeoffTails!_CharacterSheet_1stHalf_51: -1368172856
+      TakeoffTails!_CharacterSheet_1stHalf_4: 1734425370
+      TakeoffTails!_CharacterSheet_1stHalf_70: 111027862
+      TakeoffTails!_CharacterSheet_1stHalf_65: -445946494
+      TakeoffTails!_CharacterSheet_1stHalf_11: -1460353387
+      TakeoffTails!_CharacterSheet_1stHalf_76: 1439356748
+      TakeoffTails!_CharacterSheet_1stHalf_35: -62110148
+      TakeoffTails!_CharacterSheet_1stHalf_50: -578189013
+      TakeoffTails!_CharacterSheet_1stHalf_74: 564089040
+      TakeoffTails!_CharacterSheet_1stHalf_31: -917659036
+      TakeoffTails!_CharacterSheet_1stHalf_32: 1106421228
+      TakeoffTails!_CharacterSheet_1stHalf_68: 52505068
+      TakeoffTails!_CharacterSheet_1stHalf_55: -1841347015
+      TakeoffTails!_CharacterSheet_1stHalf_67: 735551977
+      TakeoffTails!_CharacterSheet_1stHalf_9: -154437321
+      TakeoffTails!_CharacterSheet_1stHalf_42: 803467726
+      TakeoffTails!_CharacterSheet_1stHalf_54: -1194799976
+      TakeoffTails!_CharacterSheet_1stHalf_1: -1725826473
+      TakeoffTails!_CharacterSheet_1stHalf_21: 626830352
+      TakeoffTails!_CharacterSheet_1stHalf_59: 1904816534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
